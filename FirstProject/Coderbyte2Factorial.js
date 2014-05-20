@@ -1,6 +1,7 @@
-﻿"use strict";
-
-function FirstFactorial(num) {
+﻿//determine factorial of a given number
+"use strict";
+var FirstFactorial = function (num) {
+    "use strict";
     var newNum = 1;
     for (var i = 1; i <= num; i++) {
         newNum *= i;
@@ -8,4 +9,4 @@ function FirstFactorial(num) {
     return newNum;
 }
 var answer = FirstFactorial(5);
-console.log(answer);
+alert(answer);

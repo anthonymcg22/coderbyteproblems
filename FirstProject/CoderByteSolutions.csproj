@@ -65,13 +65,28 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Coderbyte10AlphabetizeString.js" />
+    <Content Include="Coderbyte11CheckAB.js" />
+    <Content Include="Coderbyte12VowelCount.js" />
+    <Content Include="Coderbyte13WordCount.js" />
+    <Content Include="Coderbyte14EqualXandO.js" />
+    <Content Include="Coderbyte15PalindromeTest.js" />
+    <Content Include="Coderbyte16MathSeq.js" />
+    <Content Include="CoderByte19SecondGreatLow.js" />
+    <Content Include="Coderbyte1MediumPrimeNum.js" />
     <Content Include="Coderbyte2Factorial.js" />
     <Content Include="Coderbyte4ModifyText.js" />
     <Content Include="Coderbyte5Add1toNum.js" />
+    <Content Include="Coderbyte6Cap1stLetterofWords.js" />
+    <Content Include="Coderbyte7CheckSymbols.js" />
+    <Content Include="Coderbyte8TestNums.js" />
+    <Content Include="Coderbyte9TimeProgram.js" />
     <Content Include="index.html" />
     <Content Include="Coderbyte1ReverseString.js" />
     <Content Include="Coderbyte3longestword.js" />
-    <Content Include="Styles.css" />
+    <Content Include="processing.js" />
+    <Content Include="SixDigitNumber.js" />
+    <Content Include="style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
